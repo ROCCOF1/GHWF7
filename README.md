@@ -1,9 +1,8 @@
 
 # GHWF
 
-Practice space for using the Github Workflow.
+Practice space for github commands and for using the Github Workflow.
 
 Participants:
-Ben Coleman
-
+Rocco Fatuova
 
